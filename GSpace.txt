@@ -1,0 +1,27 @@
+GREENSPACE draft:
+
+Problem: Global warming is a known issue. Everyone wants to protect nature. But unknowingly WE are contributing to it. People are not aware of how they are participating in global warming. We HAVE  to track and reduce our carbon footprint!
+
+Solution: The app is helps to create awareness about your own daily contribution to global warming/greenhouse effect. Information about the contributing gases (CO2, CFCs, methane, etc.) from the daily activities is shown. It gives you a chance to reduce your carbon footprint. This app will also be a global hub for like-minded people who want to preseve nature. This is the go green community.
+
+User Stories:
+As an app admin, I want the location - city, state, country, age, name [first and last], email ID/Whatsapp, profession. -> Profile
+As an app admin, I want to store this information in Firestore under the user collection.
+As an app admin, I want a minimalistic welcome screen with message of the app, and conditions[being truthful, respecting users' privacy, censored abusive words, camera/gallery being accessed]; after agreeing[clicking on go green button] you're taken to the dashboard.
+As an app admin, I want the user to upload their profile picture [access already given in T&C].
+As an app admin, I want a gloabl discussion forum where people can share experiences, stories and ideas.
+
+
+As an app user, I will login/sign up with my email ID and password. First time sign up, I will fill all the necessary fields and check required boxes before agreeing.
+As an app user, after agreeing to the T&C I will update my profile picture.
+As an app user, I need awareness on global warming, personal contribution[percentage & activities], and carbon footprint.
+As an app user, I want a set of clear activities that I can track daily.
+As an app user, I want to input how many hours I did a particular activity and I want to know how much percent was contributed.
+As an app user, I would like to raise questions, discuss about the issue and share my experiences in a community forum.
+
+<View style={styles.container}> 
+<ImageBackground source={image} style={styles.image}> 
+<Text style={styles.text}>Inside </ImageBackground> 
+</View>
+
+Awareness + Calculation + Community Forum
