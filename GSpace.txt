@@ -19,9 +19,4 @@ As an app user, I want a set of clear activities that I can track daily.
 As an app user, I want to input how many hours I did a particular activity and I want to know how much percent was contributed.
 As an app user, I would like to raise questions, discuss about the issue and share my experiences in a community forum.
 
-<View style={styles.container}> 
-<ImageBackground source={image} style={styles.image}> 
-<Text style={styles.text}>Inside </ImageBackground> 
-</View>
-
 Awareness + Calculation + Community Forum
